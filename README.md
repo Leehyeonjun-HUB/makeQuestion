@@ -2,4 +2,5 @@
 Study Question Creation
 ==============
 ### Python study
-> 파이썬 lambda, args 학습 making question
+> Pyton lambda, args study making question
+> Pythin Making Question for (이현준, 송시찬)
